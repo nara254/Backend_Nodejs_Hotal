@@ -1,0 +1,27 @@
+Dependencys
+
+> Express
+> Mongoose
+> Dotenv
+> Body-parser
+> nodemon     : by node man we can moniter results while we change data.
+>jwt token  : by using password security and mismacth password
+>bcrypjs
+>Multer
+
+> connection to database
+
+API connection
+Models:
+    vendor: username,email,password
+
+    firm:firmName,area,category,region,offer,Image
+
+    product: ProductName,Price,category,bestseller,description,image
+
+Controllers:
+    vendorControllers
+Routes    
+    VendorRoutes
+
+jwt tokens create
