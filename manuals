@@ -4,10 +4,11 @@ Dependencys
 > Mongoose
 > Dotenv
 > Body-parser
-> nodemon     : by node man we can moniter results while we change data.
->jwt token  : by using password security and mismacth password
->bcrypjs
->Multer
+> nodemon           : by node man we can moniter results while we change data.
+> jwt token         : by using password security and mismacth password
+> bcrypjs
+> Multer
+> cors
 
 > connection to database
 
